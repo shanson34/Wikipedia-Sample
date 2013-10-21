@@ -1,0 +1,28 @@
+/* Stylesheet
+Colors:
+mauve: #B02230- secondary
+cream: #F1F0EB- primary
+brown: #836E5B- accent */
+
+body {
+	background: url("../img/texturetastic_gray/bg.png");
+	font-family: 'Allerta', sans-serif;
+}
+
+
+nav {
+	background: #F1F0EB;
+}
+
+h3 {
+	background: #F1F0EB;
+	color: #B02230;
+}
+
+a:link {
+	color: #836E5B;
+}
+
+a:hover {
+	color: #B02230;
+}
